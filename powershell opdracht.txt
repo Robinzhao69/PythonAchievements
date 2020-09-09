@@ -1,0 +1,155 @@
+PS C:\Users\titan> md f1m1
+
+
+    Directory: C:\Users\titan
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:24                f1m1
+
+PS C:\Users\titan> cd f1m1
+PS C:\Users\titan\f1m1> md beroep
+
+
+    Directory: C:\Users\titan\f1m1
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:25                beroep
+
+
+PS C:\Users\titan\f1m1> md python
+
+
+    Directory: C:\Users\titan\f1m1
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:25                python
+
+
+PS C:\Users\titan\f1m1> md pvaardig
+
+
+    Directory: C:\Users\titan\f1m1
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:25                pvaardig
+
+
+PS C:\Users\titan\f1m1> cd pvaardig
+PS C:\Users\titan\f1m1\pvaardig> md les01
+
+
+    Directory: C:\Users\titan\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:25                les01
+
+
+PS C:\Users\titan\f1m1\pvaardig> md les02
+
+
+    Directory: C:\Users\titan\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:25                les02
+
+
+PS C:\Users\titan\f1m1\pvaardig> md les03
+
+
+    Directory: C:\Users\titan\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+
+
+----                 -------------         ------ ----
+d-----          8-9-2020     14:26                les03
+
+
+PS C:\Users\titan\f1m1\pvaardig> md les04
+
+
+    Directory: C:\Users\titan\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:26                les04
+
+
+PS C:\Users\titan\f1m1\pvaardig> md les05
+
+
+    Directory: C:\Users\titan\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:26                les05
+
+
+PS C:\Users\titan\f1m1\pvaardig> md les06
+
+
+    Directory: C:\Users\titan\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:26                les06
+
+
+PS C:\Users\titan\f1m1\pvaardig> md les07
+
+
+    Directory: C:\Users\titan\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:26                les07
+
+
+PS C:\Users\titan\f1m1\pvaardig> md les08
+
+
+    Directory: C:\Users\titan\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:26                les08
+
+
+PS C:\Users\titan\f1m1\pvaardig> dir
+
+
+    Directory: C:\Users\titan\f1m1\pvaardig
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          8-9-2020     14:25                les01
+d-----          8-9-2020     14:25                les02
+d-----          8-9-2020     14:26                les03
+d-----          8-9-2020     14:26                les04
+d-----          8-9-2020     14:26                les05
+d-----          8-9-2020     14:26                les06
+d-----          8-9-2020     14:26                les07
+d-----          8-9-2020     14:26                les08
+
+
+PS C:\Users\titan\f1m1\pvaardig> cd ~
+PS C:\Users\titan>
